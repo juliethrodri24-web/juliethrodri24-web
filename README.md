@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/juliethrodri24-web/juliethrodri24-web/main/github-header-banner (1).png" width="100%">
 </p>
+
 # Data Analyst & AI Master
 
+<div align="center">
 Hi there, I'm Julieth! 👋
 Data Analyst | AI Specialist | Software Development Student
 🎧💻🌆👩🏻‍💻🤖👩🏻‍🏫
-
+</div>
 I am a passionate Data Analyst and AI Master’s graduate with a strong foundation in Software Development. My focus lies at the intersection of data-driven decision-making and the implementation of intelligent systems to solve complex problems.
 🛠 Tech Stack & Tools
 
@@ -30,10 +32,21 @@ Development & Workflow: Git, GitHub, Jupyter Notebooks.
 
 💬 Ask me about: Data cleaning strategies, AI ethics, or how to optimize SQL queries.
 
+<h2 align="center">📊 My GitHub Metrics</h2>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliethrodri24-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliethrodri24-web&layout=compact&theme=tokyonight" />
+</p>
+
 # 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliethvivianarodriguezlopez)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliethrodri.24@gmail.com)
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### 📊 Data Analysis Stack
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white) 
@@ -41,6 +54,11 @@ Development & Workflow: Git, GitHub, Jupyter Notebooks.
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 [Google Sheets](https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 🎓 Education
 ![BIG school](https://campus.thebigschool.com/wp-content/uploads/2023/06/big-school-2-NEGRO.svg)
@@ -52,6 +70,11 @@ Development & Workflow: Git, GitHub, Jupyter Notebooks.
 * **Software Development** (Student) |
 ![mouredev.pro](https://img.shields.io/badge/Academic-mouredev.pro-black?style=for-the-badge&logo=appveyor&logoColor=white)
 ![mouredevpro](https://mouredev.pro/logo/mouredevpro_light.svg)
+
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 
 ## 🚀 Featured Projects
