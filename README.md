@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/juliethrodri24-web/juliethrodri24-web/main/github-header-banner.png
 # Data Analyst & AI Master
 
 Hi there, I'm Julieth! 👋
